@@ -1,3 +1,8 @@
-# Html-Css-Javascript-For-Web-Developers
+# Html-Css-Javascript-For-Web-Developers by Johns Hopkins University
 Coursera Course Solutions
-The Solutions for all the modules for the course.
+The Solutions for all the modules for the course.<br />
+Assignment 1 <br />
+> Module 2
+* [Problem Description](https://www.coursera.org/learn/html-css-javascript-for-web-developers/peer/1nPGO/module-2-coding-assignment)
+* [Solution](https://atharva1701.github.io/Html-Css-Javascript-For-Web-Developers/module2-solution)
+* Due Date : 27th April 2020 IST 12.29 PM 
