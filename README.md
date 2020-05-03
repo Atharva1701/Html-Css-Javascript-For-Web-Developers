@@ -9,5 +9,5 @@ Assignment 1 <br />
 Assignment 2 <br />
 > Module 3
 * [Problem Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md)
-* [Solution](https://atharva1701.github.io/Html-Css-Javascript-For-Web-Developers/module3-solution)
+* [Solution(with optional parts)](https://atharva1701.github.io/Html-Css-Javascript-For-Web-Developers/module3-solution)
 * Due Date : 4th May 2020 IST 12.29 PM 
