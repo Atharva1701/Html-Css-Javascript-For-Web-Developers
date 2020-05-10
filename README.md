@@ -12,3 +12,9 @@ Assignment 2 <br />
 * [Problem Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md)
 * [Solution(with optional parts)](https://atharva1701.github.io/Html-Css-Javascript-For-Web-Developers/module3-solution)
 * Due Date : 4th May 2020 IST 12.29 PM 
+
+Assignment 3 <br />
+> Module 4
+* [Problem Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md)
+* [Solution](https://atharva1701.github.io/Html-Css-Javascript-For-Web-Developers/module4-solution)
+* Due Date : 11th May 2020 IST 12.29 PM 
